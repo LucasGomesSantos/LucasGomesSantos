@@ -6,6 +6,6 @@
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoDesenv&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGomesSantos&show_icons=true)  
 
 ![Snake animation](https://github.com/BrunoDesenv/BrunoDesenv/blob/output/github-contribution-grid-snake.svg)
