@@ -8,4 +8,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGomesSantos&show_icons=true)  
 
-![Snake animation](https://github.com/BrunoDesenv/BrunoDesenv/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LucasGomesSantos/LucasGomesSantos/blob/output/github-contribution-grid-snake.svg)
